@@ -1,4 +1,4 @@
 GitHub Pull Request Demo
 Version 1.0
 This is a modification by cigaje.
-THIS IS ANOTHER MODIFICATION.
+This is another modification.
